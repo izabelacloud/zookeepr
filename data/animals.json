@@ -150,6 +150,15 @@
         "hungry"
       ],
       "id": "16"
+    },
+    {
+      "name": "testanimal",
+      "species": "dog",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "17"
     }
   ]
 }
