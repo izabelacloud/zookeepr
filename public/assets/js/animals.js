@@ -40,9 +40,9 @@ const getAnimals = (formData = {}) => {
   .then(animalData => {
     console.log(animalData);
     printResults(animalData); 
+
+
   });
-
-
 });
   console.log(queryUrl);
 
